@@ -52,7 +52,7 @@ As root user, type the following (use your username instead of mine!):
 `/usr/sbin/usermod -aG sudo shabaz`
 
 Now exit out of root user, and exit out of the terminal (technically known as the shell), and then re-open a new terminal, for it to take effect. 
-Unless any of the steps below explicity mention being a root user, you don’t need to use su or sudo.
+Unless any of the steps below explicitly mention being a root user, you don’t need to use su or sudo.
 
 ## Download the Linux Surface Patch
 From the ~/development folder, download the Linux Surface patch repository:
