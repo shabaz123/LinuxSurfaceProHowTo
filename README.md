@@ -112,7 +112,7 @@ make -j 4 deb-pkg LOCALVERSION=-linux-surface
 ```
 If all went well, then (about 2.5 hours later!) the built `.deb` files will appear in the `~development` folder. You should see four `.deb` files created, although only three will be used (one is a debug image).
 
-If you don’t see this, then there may have build errors to resolve. They will probably have scrolled off the screen. To see the errors, issue the make command as before. This time around less output will be generated (since the successfully built portions will not be rebuilt) and hopefully the error will be visible, all ready for googling to figure out what went wrong (This Is The Way!).
+If you don’t see this, then there may have been build errors to resolve. They will probably have scrolled off the screen. To see the errors, issue the make command as before. This time around less output will be generated (since the successfully built portions will not be rebuilt) and hopefully the error will be visible, all ready for googling to figure out what went wrong (This Is The Way!).
 
 ## Install the Linux Kernel
 Type the following to become root user with particular `sbin` paths in your PATH environment variable:
