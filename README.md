@@ -6,11 +6,13 @@ Microsoft tablets are nice machines, quite feature-rich, and of good quality! I 
 An old tablet, such as a Surface Pro 4, can be obtained for about £100 these days. I think these older tablets fly under the radar, but they are surprisingly versatile, usable in all manner of ways. A more recent tablet would be even more spectacular, but I used what I had. Mine came with a 2736 x 1824 touch-screen, an Intel i5 processor, 128 GByte SSD, and 4 GByte of RAM. All this is fine for running Windows, and normally I prefer a Windows desktop, but I had a use-case that required a Linux desktop and could also benefit from the tablet form-factor. If you have a similar need, this document shows how to go about it, step-by-step. By the end of it, for that £100 or so, you’ll have a fancy high-res Linux tablet with multi-finger capacitive touch, and Wacom-style pressure-sensitive pen capability.
 
 <img width="100%" align="left" src="doc\mny.jpg">
+.
  
 ## Buying a Surface Device
 As mentioned, you should be able to pick one up for about £100. For instance, the advertisement below, at time of writing, shows one listed just a fraction more at £110 but with useful extras – an optional attachable keyboard, and pen.
 
 <img width="100%" align="left" src="doc\tablet-ad.jpg">
+.
  
 If you’re obtaining a Surface device from eBay, then you’ll want to make sure it is supplied with a mains power brick, because the Microsoft Surface products use a magnetic connector; you probably will not want to use a non-genuine power brick, because (I’m speculating here; please rebut this if you have different thoughts!) there is a risk non-genuine ones apply power at all times to the connector, which will erode the contacts on the tablet during insertion/removal. The proper genuine Microsoft power brick sense when the connector is attached, and only then will it apply power, without risk of contacts arcing. Furthermore, it’s not generally a good idea to buy non-brand mains supplies, they can be dangerous.
 
