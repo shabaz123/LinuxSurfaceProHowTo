@@ -20,7 +20,7 @@ If you’re obtaining a Surface device from eBay, then you’ll want to make sur
 * Surface Tablet
 * Mains Power Brick
 * USB Hub
-* SD Card
+* USB Memory Stick
 * Keyboard and Mouse
 
 For initial setup, as well as the Surface tablet and its mains power brick, you’ll also need a USB hub (because some Surface devices only have a single USB port). I used a low-cost USB hub with integrated Ethernet socket. The Ethernet socket is handy as a backup but not essential since the Surface devices have WiFi capability. You will also need a USB memory stick; I used an 8 GB USB 2.0 memory stick (I don’t know if USB 3.0 will work, or if larger memory sizes are usable; I didn’t want to waste time troubleshooting, so I simply purchased a basic 8 GB USB 2.0 memory stick to dedicate to the task at hand.
